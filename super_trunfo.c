@@ -81,6 +81,6 @@ scanf("%d", &Pontos_Turisticos2);
     printf("Pressione Enter para sair...\n");//Solicita ao usuário que pressione a tecla enter para fechar a aplicação
     getchar(); //Impede o fechamento automático da janela no prompt cmd
 
-    return 0; //Fim da função principal
+    return 0; //Fim da função principal.
 
 }
